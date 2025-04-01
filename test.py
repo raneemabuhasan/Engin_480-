@@ -6,3 +6,6 @@ print ("Running test.py")
 
 hello ="hello"
 print (hello)
+
+hello = "world"
+print (hello)
